@@ -61133,7 +61133,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	          ),
 	          favicons,
 	          cssLink,
-	          _react2.default.createElement('script', { src: '//npmcdn.com/fontfaceobserver@1.7.1/fontfaceobserver.js' }),
+	          _react2.default.createElement('script', { src: '//unpkg.com/fontfaceobserver@1.7.1/fontfaceobserver.js' }),
 	          _react2.default.createElement('script', { dangerouslySetInnerHTML: { __html: _config.config.js.font } })
 	        ),
 	        _react2.default.createElement(
